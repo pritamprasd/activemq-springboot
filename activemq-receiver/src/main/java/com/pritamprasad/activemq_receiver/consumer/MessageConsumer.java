@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @EnableJms
 public class MessageConsumer {
     private final Logger logger = LoggerFactory.getLogger(MessageConsumer.class);
-    @JmsListener(destination = "test-queue")
+    @JmsListener(destination = "custom-queue")
     public void listener(String message) throws InterruptedException {
         Thread.sleep(100);
         logger.info("Message received {} ", message);

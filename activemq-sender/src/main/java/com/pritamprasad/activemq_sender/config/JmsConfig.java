@@ -12,6 +12,6 @@ import javax.jms.Queue;
 public class JmsConfig {
     @Bean
     public Queue queue(){
-        return new ActiveMQQueue("test-queue");
+        return new ActiveMQQueue("custom-queue");
     }
 }
