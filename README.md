@@ -1,6 +1,6 @@
 # activemq-springboot
 
-`rest-client --HTTP--> activemq-sender --OpenWire--> ActiveMQ --OpenWire--> activemq-receiver`
+`react-ui --HTTP--> rest-client --HTTP--> activemq-sender --OpenWire--> ActiveMQ --OpenWire--> activemq-receiver`
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fpritamprasd%2Factivemq-springboot%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/pritamprasd/activemq-springboot/goto?ref=master)
 
