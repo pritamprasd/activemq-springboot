@@ -4,7 +4,7 @@
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fpritamprasd%2Factivemq-springboot%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/pritamprasd/activemq-springboot/goto?ref=master)
 
-- ActiMQ Download : bit.ly/acmqdwld
+- ActiMQ Download : https://bit.ly/acmqdwld
 - ActiveMQ Admin 
     - user/pass: admin/admin
     - console: http://localhost:8161/admin
